@@ -26,12 +26,12 @@ body {
 }
 
 .left-login > h1 {
-    font-size: 23vw;
+    font-size: 3vw;
     color: #77ffc0;
 }
 
 .left-login-image {
-    width: 25vw;
+    width: 35vw;
 }
 
 .right-login {
