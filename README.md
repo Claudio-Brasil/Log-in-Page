@@ -15,7 +15,7 @@
 * I personalized the fonts with Browse Fonts.
 * There is a slight movement coming from the planet and the leaves (animation) at the left, using storyset.
 
-## This features are in development:
+## These features are in development:
 
 - The animation.
 - The interation page.
