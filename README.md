@@ -2,7 +2,7 @@
 
 > Status: Developing ⚠️
 
-### This is a simple HTML and CSS Log in page used by volunteers leaders of a National Environmental project called "Folhas que Salvam" where they can be identified, then allowed to a different web aplication.
+### This is a simple HTML and CSS Log in page that will be used by volunteers leaders of a National Environmental project called "Folhas que Salvam" where they can be identified, then allowed to a different web aplication.
 
 ## Some fields created for the User to fill up:
 
@@ -18,7 +18,6 @@
 ## These features are in development:
 
 - The animation.
-- The interation page.
 
 ## Technologies Used:
 
@@ -32,10 +31,5 @@
     <td>*</td>
   </tr>
 </table>
-
-## How to run the application:
-
-1) Open google
-2) Enjoy the verification part
 
 ![HTML e CSS novo](https://user-images.githubusercontent.com/77110029/160260702-ce1fe65c-e8fa-4e0d-827f-70ff1ed1c5ed.JPG)
